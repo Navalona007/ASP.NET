@@ -1,0 +1,159 @@
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\ApprendreAspNet.dll.config
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\ApprendreAspNet.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\ApprendreAspNet.pdb
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\csc.exe
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\csc.exe.config
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\csc.rsp
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\csi.exe
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\csi.exe.config
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\csi.rsp
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.AppContext.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Console.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Net.Http.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\vbc.exe
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\vbc.exe.config
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\vbc.rsp
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Antlr3.Runtime.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Newtonsoft.Json.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Web.Optimization.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\WebGrease.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Web.Optimization.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Newtonsoft.Json.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Antlr3.Runtime.pdb
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\obj\Debug\ApprendreAspNet.csproj.AssemblyReference.cache
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\obj\Debug\ApprendreAspNet.csproj.CoreCompileInputs.cache
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\obj\Debug\ApprendreAspNet.csproj.CopyComplete
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\obj\Debug\ApprendreAspNet.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\obj\Debug\ApprendreAspNet.pdb
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Npgsql.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Buffers.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Collections.Immutable.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Memory.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Numerics.Vectors.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Text.Encodings.Web.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Text.Json.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Threading.Channels.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.ValueTuple.dll
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\Npgsql.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Buffers.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Collections.Immutable.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Memory.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Numerics.Vectors.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Text.Encodings.Web.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Text.Json.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Threading.Channels.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Inclusiv 11\source\repos\ApprendreAspNet\ApprendreAspNet\bin\System.ValueTuple.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\ApprendreAspNet.dll.config
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\ApprendreAspNet.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\ApprendreAspNet.pdb
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Antlr3.Runtime.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Newtonsoft.Json.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Npgsql.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Buffers.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Collections.Immutable.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Memory.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Numerics.Vectors.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Text.Encodings.Web.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Text.Json.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Threading.Channels.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.ValueTuple.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Web.Optimization.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\WebGrease.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Npgsql.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Buffers.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Collections.Immutable.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Memory.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Numerics.Vectors.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Text.Encodings.Web.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Text.Json.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Threading.Channels.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.ValueTuple.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\System.Web.Optimization.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Newtonsoft.Json.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Antlr3.Runtime.pdb
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\obj\Debug\ApprendreAspNet.csproj.AssemblyReference.cache
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\obj\Debug\ApprendreAspNet.csproj.CoreCompileInputs.cache
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\obj\Debug\ApprendreAspNet.csproj.CopyComplete
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\obj\Debug\ApprendreAspNet.dll
+C:\Users\Inclusiv Academy 26\source\repos\ASP.NET_Test\Apprendre_ASP.NET\ApprendreAspNet\obj\Debug\ApprendreAspNet.pdb

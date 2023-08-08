@@ -1,0 +1,244 @@
+﻿++Solution 'ApprendreAspNet' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ApprendreAspNet.sln
+++ApprendreAspNet
+i:{00000000-0000-0000-0000-000000000000}:ApprendreAspNet
+++Properties
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\properties\
+++References
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++App_Data
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\app_data\
+++App_Start
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\app_start\
+++BundleConfig.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\app_start\bundleconfig.cs
+++RouteConfig.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\app_start\routeconfig.cs
+++Content
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\content\
+++bootstrap-theme.css
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\content\bootstrap.css
+++bootstrap.css.map
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\content\bootstrap.css.map
+++bootstrap.min.css
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\content\bootstrap.min.css.map
+++Site.css
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\content\site.css
+++fonts
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\fonts\
+++glyphicons-halflings-regular.eot
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\fonts\glyphicons-halflings-regular.woff2
+++Scripts
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\
+++WebForms
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\
+++MSAjax
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\
+++MicrosoftAjax.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\microsoftajax.js
+++MicrosoftAjaxApplicationServices.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\microsoftajaxapplicationservices.js
+++MicrosoftAjaxComponentModel.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\microsoftajaxcomponentmodel.js
+++MicrosoftAjaxCore.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\microsoftajaxcore.js
+++MicrosoftAjaxGlobalization.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\microsoftajaxglobalization.js
+++MicrosoftAjaxHistory.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\microsoftajaxhistory.js
+++MicrosoftAjaxNetwork.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\microsoftajaxnetwork.js
+++MicrosoftAjaxSerialization.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\microsoftajaxserialization.js
+++MicrosoftAjaxTimer.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\microsoftajaxtimer.js
+++MicrosoftAjaxWebForms.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\microsoftajaxwebforms.js
+++MicrosoftAjaxWebServices.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\msajax\microsoftajaxwebservices.js
+++DetailsView.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\detailsview.js
+++Focus.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\focus.js
+++GridView.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\gridview.js
+++Menu.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\menu.js
+++MenuStandards.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\menustandards.js
+++SmartNav.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\smartnav.js
+++TreeView.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\treeview.js
+++WebForms.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\webforms.js
+++WebParts.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\webparts.js
+++WebUIValidation.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\webforms\webuivalidation.js
+++bootstrap.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\bootstrap.js
+++bootstrap.min.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\scripts\modernizr-2.8.3.js
+++About.aspx
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\about.aspx
+++About.aspx.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\about.aspx.cs
+++About.aspx.designer.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\about.aspx.designer.cs
+++Bundle.config
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\bundle.config
+++Contact.aspx
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\contact.aspx
+++Contact.aspx.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\contact.aspx.cs
+++Contact.aspx.designer.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\contact.aspx.designer.cs
+++Default.aspx
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\default.aspx
+++favicon.ico
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\favicon.ico
+++Global.asax
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\global.asax
+++Global.asax.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\global.asax.cs
+++packages.config
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\packages.config
+++Site.Master
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\site.master
+++Site.Master.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\site.master.cs
+++Site.Master.designer.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\site.master.designer.cs
+++Site.Mobile.Master
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\site.mobile.master
+++Site.Mobile.Master.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\site.mobile.master.cs
+++Site.Mobile.Master.designer.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\site.mobile.master.designer.cs
+++ViewSwitcher.ascx
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\viewswitcher.ascx
+++ViewSwitcher.ascx.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\viewswitcher.ascx.cs
+++ViewSwitcher.ascx.designer.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\viewswitcher.ascx.designer.cs
+++Web.config
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\web.config
+++AssemblyInfo.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++AspNet.ScriptManager.bootstrap
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++AspNet.ScriptManager.jQuery
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++Microsoft.AspNet.FriendlyUrls
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++Microsoft.AspNet.Web.Optimization.WebForms
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++Microsoft.CSharp
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++Microsoft.ScriptManager.MSAjax
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++Microsoft.ScriptManager.WebForms
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++Microsoft.Web.Infrastructure
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++Newtonsoft.Json
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.ComponentModel.DataAnnotations
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Configuration
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Core
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Data
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Data.DataSetExtensions
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Drawing
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.EnterpriseServices
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Web
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Web.ApplicationServices
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Web.DynamicData
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Web.Entity
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Web.Extensions
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Web.Optimization
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Web.Services
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Xml
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++System.Xml.Linq
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++WebGrease
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:
+++Default.aspx.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\default.aspx.cs
+++Default.aspx.designer.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\default.aspx.designer.cs
+++Web.Debug.config
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\web.debug.config
+++Web.Release.config
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\web.release.config
+++formulaire.html
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\formulaire.html
+++index.aspx
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\index.aspx
+++index.aspx.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\index.aspx.cs
+++index.aspx.designer.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\index.aspx.designer.cs
+++formulaire.css
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\formulaire.css
+++WebForm1.aspx
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\webform1.aspx
+++WebForm1.aspx.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\webform1.aspx.cs
+++WebForm1.aspx.designer.cs
+i:{5547a912-7caa-4c93-8672-5da0c1bf8bad}:c:\users\inclusiv 11\source\repos\apprendreaspnet\apprendreaspnet\webform1.aspx.designer.cs
